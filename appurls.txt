@@ -1,1 +1,1 @@
-
+https://raw.githubusercontent.com/kokorocks/scratch-store/main/apps.json
